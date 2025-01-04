@@ -1,6 +1,6 @@
-### Plotting Grow Dataset(GrowLocations.csv) on UK Map
+## Plotting Grow Dataset(GrowLocations.csv) on UK Map
 
-#### Introduction
+### Introduction
 The script effectively processes and visualises GrowLocations data by addressing key challenges in data cleaning and representation. The cleaned dataset ensures concise serial numbers and valid locations, and the interactive visualisation provides a user-friendly interface for analysing sensor locations across the UK.
 
 ## Features
